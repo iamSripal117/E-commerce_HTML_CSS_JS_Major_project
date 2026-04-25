@@ -8,6 +8,24 @@
       "gender": "male",
       "contact": "08008157917",
       "id": "v2l26Y9dfzM"
+    },
+    {
+      "name": "Sripal Reddy Rakkireddy",
+      "email": "sripalrakkireddy1817@gmail.com",
+      "password": "Sripal",
+      "dob": "2026-04-02",
+      "gender": "on",
+      "contact": "08008157917",
+      "id": "1WiyxSTCrUI"
+    },
+    {
+      "name": "Sripal",
+      "email": "sripalrakkireddy1817@gmail.com",
+      "password": "Sripal",
+      "dob": "2026-01-01",
+      "gender": "on",
+      "contact": "08008157917",
+      "id": "A9fHGBUlcL8"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -3,15 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-#nav_container {
-  height: 10vh;
-  margin: 0;
-  border: solid;
-}
 
 section {
   height: 90vh;
-  /* border: solid; */
   display: flex;
   align-items: center;
   justify-content: center;

@@ -1,14 +1,14 @@
-let url = "http://localhost:3000/tasks";
+let url ="http://localhost:3000/tasks"
 
 let form = document.querySelector("form");
 form.addEventListener("submit", () => {
   let formData = new FormData(form);
 
   let password = formData.get("password");
-  let confirmPassword = formData.get("confirmPassword");
+  let confirmPassword = formData.get("confirm_password");
   let name = formData.get("name");
   let email = formData.get("email");
-  let mobileNo = formData.get("contact");
+  let mobileNo = formData.get("mobile");
   let gender = formData.get("gender");
   let dob = formData.get("dob");
   let address = formData.get("address");
